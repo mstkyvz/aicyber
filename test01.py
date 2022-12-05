@@ -24,3 +24,6 @@ model.compile(optimizer="adam", loss="sparse_categorical_crossentropy", metrics=
 
 # Modeli eğitme
 model.fit(data, epochs=10)
+
+
+#This code block is a sample code that can be used to train an AI model. By giving cyber attack data to this model, a system that can detect cyber attacks can be developed. However, this is just a sample code block and further work and research may be required in developing a real cybersecurity system.
